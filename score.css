@@ -1,0 +1,28 @@
+h1 {
+    display: block;
+    text-align: center;
+    font-size: 85px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font: italic;
+}
+body {
+    background-image: url(brickwall.png);
+  
+}
+button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-size: 40px;
+    color: firebrick;
+    background: #8d82c9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+em {
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    color: #f11111;
+    background: #724444;
+}
